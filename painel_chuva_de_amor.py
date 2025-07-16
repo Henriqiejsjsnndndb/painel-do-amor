@@ -70,7 +70,7 @@ def main():
     progress_bar(duration=4, length=40)
 
     # Aqui vc coloca o LINK que quiser abrir
-    LINK = "https://seulinkaqui.com"  # <<< COLOQUE SEU LINK AQUI <<<
+    LINK = "https://i.postimg.cc/Fz15VPJW/file-00000000f7ac62468ea1ccf65815d020.png"  # <<< COLOQUE SEU LINK AQUI <<<
 
     type_effect(f"Abrindo link secreto: {LINK}", delay=0.03, color=Fore.LIGHTGREEN_EX)
     time.sleep(1)
